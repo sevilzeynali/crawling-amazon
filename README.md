@@ -1,6 +1,6 @@
 # parse-amazon-reviews-and-stars: browsing amazon to get product reviews and stars
 
-parse-amazon-reviews-and-stars is a  python program for crawling amazon french site to get product reviews and stars . This dataset can be used to train a sentiment analyser with a deep learning tool like [fasttext](https://fasttext.cc/).
+parse-amazon-reviews-and-stars is a  python program for crawling amazon french site to get product reviews and stars . This dataset can be used to train a sentiment analyser with deep learning tools like [fasttext](https://fasttext.cc/).
 
 ## Getting asins
 You need to have a file of asins of products that you want to get the reviews about. This can be found in amazon site.
